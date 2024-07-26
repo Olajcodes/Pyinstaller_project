@@ -1,0 +1,18 @@
+([('main.exe',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\packagetut\\project\\build\\main\\main.exe',
+   'EXECUTABLE'),
+  ('python312.dll', 'C:\\Python_Files\\python312.dll', 'BINARY'),
+  ('_decimal.pyd', 'C:\\Python_Files\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'C:\\Python_Files\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Python_Files\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Python_Files\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('unicodedata.pyd', 'C:\\Python_Files\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('select.pyd', 'C:\\Python_Files\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'C:\\Python_Files\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('VCRUNTIME140.dll', 'C:\\Python_Files\\VCRUNTIME140.dll', 'BINARY'),
+  ('libcrypto-3.dll', 'C:\\Python_Files\\DLLs\\libcrypto-3.dll', 'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Welcome '
+   'Sir\\Desktop\\packagetut\\project\\build\\main\\base_library.zip',
+   'DATA')],)

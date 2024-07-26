@@ -1,0 +1,4 @@
+packagetutenv/
+*.env
+venv/
+*.txt
